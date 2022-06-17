@@ -55,7 +55,7 @@ async def play(_, message: Message):
 
     await message.delete()
 
-    fallen = await message.reply("»  Bachhu Ruko Abhi Play Krta Hu 😘💖")
+    fallen = await message.reply("»  ʙᴀᴄʜʜᴜ ʀᴜᴋᴏ ᴀʙʜɪ ᴘʟᴀʏ ᴋʀᴛᴀ ʜᴜ 😘💖")
 
     chumtiya = message.from_user.mention
 
