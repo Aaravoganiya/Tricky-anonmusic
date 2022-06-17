@@ -63,7 +63,7 @@ async def help(client: Client, message: Message):
                         "💖 sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "❤ Love", url="https://t.me/BARBIExAARAV"
+                        "💖 ʟᴏᴠᴇ ", url="https://t.me/BARBIExAARAV"
                     )
                 ]
             ]
